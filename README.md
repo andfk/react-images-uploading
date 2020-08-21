@@ -1,5 +1,6 @@
 # react-images-uploading
 
+Temporary publish of package until [PR](https://github.com/vutoan266/react-images-uploading/pull/13) 
 >
 
 [![NPM](https://img.shields.io/npm/v/react-images-uploading.svg)](https://www.npmjs.com/package/react-images-uploading) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)

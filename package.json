@@ -1,12 +1,12 @@
 {
-  "name": "react-images-uploading",
-  "version": "2.2.2",
+  "name": "@andfk/react-images-uploading",
+  "version": "3.0.0",
   "description": "A simple images uploader without UI. Building by yourself",
   "author": "imvutoan",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vutoan266/React-images-uploading"
+    "url": "git+https://github.com/andfk/React-images-uploading.git"
   },
   "homepage": "https://github.com/vutoan266/React-images-uploading/blob/master/README.md",
   "main": "dist/index.js",
@@ -58,5 +58,8 @@
     "uploading",
     "react image upload",
     "react images uploading"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/vutoan266/React-images-uploading/issues"
+  }
 }
